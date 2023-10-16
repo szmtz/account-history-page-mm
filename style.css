@@ -23,3 +23,9 @@ div {
   .creditText {
     clear: left: 
   }
+
+  .debit {
+    text-align: right;
+    background-color: lightsalmon;
+  }
+  
