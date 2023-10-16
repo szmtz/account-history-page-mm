@@ -32,3 +32,7 @@ div {
   .debitImage {
     float: right; 
   }
+
+  .debitText {
+    clear: right; 
+  }
