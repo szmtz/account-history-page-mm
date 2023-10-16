@@ -29,3 +29,6 @@ div {
     background-color: lightsalmon;
   }
   
+  .debitImage {
+    float: right; 
+  }
